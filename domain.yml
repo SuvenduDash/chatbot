@@ -1,0 +1,49 @@
+intents:
+  - greet
+  - goodbye
+  - contact
+  - about
+  - location
+  - services
+
+slots:
+type_of_services:
+    type: categorical
+    values:
+    - SAP ISU
+    - WEB DEVELOPMENT
+    - MOBILE APPLICATION DEVELOPMENT 
+    - DIGITAL MARKETING
+    - TRAINING AND MENTORING
+    - RESEARCH CONSULTANCY 
+
+entities:
+- type_of_services
+
+templates:
+  utter_greet:
+  - text: "Hello there, Welcome to Oretes . How can i help you ?"
+  
+  utter_goodbye:
+  - text: "Thank you, I am happy to help you. For more details about us please visit our website:http://oretes.com "
+
+  utter_about:
+  - text: "Oretes Consulting Pvt Ltd is Oretes provides technology services based on Future Ready Programs (SAP Leonardo, AI, Block Chain, IOT) and Digital Marketing which addresses complex business needs.For more info visit  http://oretes.com "
+
+  
+  utter_location:
+  - text: "Oretes Consulting Pvt Ltd is located in Bhubaneswar,India.Folllow us at google maps https://g.page/oretes-consulting-pvt--ltd "
+
+
+  utter_contact:
+  - text: "For contact details, follow us at http://oretes.com/contact-us/"
+  utter_about_services:
+  - text: "We offer all type of services.For more details about services please visit our website:http://oretes.com/services"
+
+actions:
+- utter_greet
+- utter_goodbye
+- utter_location
+- utter_contact
+- utter_about
+- utter_about_services

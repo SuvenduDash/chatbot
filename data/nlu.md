@@ -1,0 +1,173 @@
+## intent:greet
+- hey
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+- howdy
+- hey there
+- Hello
+- Hello, good morning
+- hello, good afternoon
+- Hello, good evening
+- Hey, what's up
+- How you doing?
+- How is your day?
+- Hey
+- greetings
+- Good morning
+- Good afternoon
+- Good evening
+- Hii
+- Hey
+- Hey, what's up?
+- Hey what's up?
+- what is going on?
+- greet
+- hi bot
+- hello bot
+- hii bot
+
+## intent:goodbye
+- bye
+- goodbye
+- good bye
+- stop
+- end
+- Bye
+- Bye
+- Bye bye
+- Okay, thank you
+- Okay i am done.
+- Thank you
+- Thanks for helping me
+- Thanks for helping me
+- Stop
+- exit
+- Okay ,thank you
+- okay, thank you
+- Goodbye
+- Please give me loajn
+- out of scope
+
+## intent:about
+- WHere is this company ??
+- What is this company related to?
+- Is the company open today?
+- Is the company close today?
+- Will the company be providing its services today?
+- Is the company open for its services?
+- How many branches do this company have?
+- In how many cities do this company provide their service?
+- Can you show me the list of the company’s branches?
+- In which areas do this company provide services?
+- Give me the list of the company’s branches.
+- How many branches are there?
+- How many branches are there in this company?
+- Okay, what about the branches of this company?
+- Is the company open today?
+- Is the company close today?
+- Will the company be providing its services today?
+- Is the company open for its services?
+- What is the current status of this company?
+
+## intent:location
+- Where is the location of this company?
+- Where is the company located?
+- Show me the direction to the nearest company.
+- Which is the nearest company from my location?
+- Where is the head office of this company?
+- How can I get to this company?
+- Where is your office located??
+- WHere is this company ?
+- Where is the location of this comnpany?
+- Where is the company located?
+- Show me the direction to the nearest company.
+- Which is the nearest company from my location?
+- Where is the head office of this company?
+- How can I get to this company?
+- Where is your office located?
+- WHere is this company ??
+- Where is this company?
+- Can i get your location?
+
+## intent:contact
+- Can I get the contact number of the customer service?
+- Can I get the contact number of the company manager?
+- Can I get the contact number of the Bhubaneswar branch?
+- What is the contact number of customer service?
+- What is the contact number of company manager?
+- What is the contact number of  branch?
+- How can I contact your office?
+- How should I contact your office?
+- Is this company linked with any international company?
+- Does the company have any association with foreign company?
+- How can i follow this company online?
+- How to follow this company in internet?
+- provide URL address of this company
+- Does this company have it's own website?
+- How to follow this company?
+- contact number please
+- Provide me contact address of this company
+
+## intent:services
+- [SAP ISU](type_of_services)
+- Which type of module you supported under [SAP ISU](type_of_services).
+- How to get the  [SAP ISU](type_of_services).
+- I want to sap  [SAP ISU](type_of_services) service.
+- [WEB DEVELOPMENT](type_of_services)
+- are you providing web develoment[WEB DEVELOPMENT](type_of_services) service.
+- I want [WEB DEVELOPMENT](type_of_services) service.
+- which type of web development service you supported under [WEB DEVELOPMENT](type_of_services) service.
+- How to get the [WEB DEVELOPMENT](type_of_services).
+- [MOBILE APPLICATION DEVELOPMENT](type_of_services)
+- How to get the [MOBILE APPLICATION DEVELOPMENT](type_of_services) service.
+- are you providing [MOBILE APPLICATION DEVELOPMENT](type_of_services) service .
+- which type of mobile app development service you supported under [MOBILE APPLICATION DEVELOPMENT](            type_of_services) service.
+- [DIGITAL MARKETING](type_of_services)
+- are you providing [DIGITAL MARKETING](type_of_services) service.
+- I want[DIGITAL MARKETING](type_of_services) service .
+- how to get the [DIGITAL MARKETING](type_of_services) service.
+- which type of [DIGITAL MARKETING](type_of_services) service are you providing.
+- [TRAINING AND MENTORING](type_of_services)
+- which type of [TRAINING AND MENTORING](type_of_services) service are you providing.
+- are you providing [TRAINING AND MENTORING](type_of_services).
+- I want [TRAINING AND MENTORING](type_of_services) service .
+- [RESEARCH CONSULTANCY](type_of_services)
+- i want [RESEARCH CONSULTANCY](type_of_services) service.
+- are you providing [RESEARCH CONSULTANCY](type_of_services) service.
+- which type of [RESEARCH CONSULTANCY](type_of_services) service are you providing.
+- Inform me abouit the services offered by this company.
+- What are the services of this company?
+- What are the services of oretes ?
+- service
+- What kind of services are provided by this company?
+- What are the services offered?
+- What type of services do you offer?
+- I want to know about the services provided by this company
+- I want to know about the services provided by oretes consulting private limited company
+- What are the services offered by this company?
+- What services do you offere?
+- How can you help me in services?
+- What are the services?
+- what services?
+- Does the company provide web development service?
+- Does the company provide SAP ISU service?
+- Does the company provide mobile app development service?
+- Does the company provide training and mentoring service?
+- Does the company provide  research consultancy service?
+- Does the company provide training service?
+- What are the types of  services provided by the company?
+- I want to activate the internet companying.
+- What are the services of this company?
+- What kind of services are provided by this company?
+- What are the services offered?
+- What about the services provided by this company?
+- What services can I get from this company?
+- List out the services offered
+- I want to know about the services provided
+- What services can I get from oretes?
+- I want to get service
+- I want to get  services
+
