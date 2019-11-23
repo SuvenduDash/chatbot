@@ -22,23 +22,23 @@ entities:
 
 templates:
   utter_greet:
-  - text: "Hello there, Welcome to Oretes . How can i help you ?"
+  - text: "Hello there, Welcome to Ores . How can i help you ?"
   
   utter_goodbye:
-  - text: "Thank you, I am happy to help you. For more details about us please visit our website:http://oretes.com "
+  - text: "Thank you, I am happy to help you. For more details about us please visit our website:http://ocpl.com "
 
   utter_about:
-  - text: "Oretes Consulting Pvt Ltd is Oretes provides technology services based on Future Ready Programs (SAP Leonardo, AI, Block Chain, IOT) and Digital Marketing which addresses complex business needs.For more info visit  http://oretes.com "
+  - text: "Ocpl Ltd is Oretes provides technology services based on Future Ready Programs (SAP Leonardo, AI, Block Chain, IOT) and Digital Marketing which addresses complex business needs.For more info visit  http://oretes.com "
 
   
   utter_location:
-  - text: "Oretes Consulting Pvt Ltd is located in Bhubaneswar,India.Folllow us at google maps https://g.page/oretes-consulting-pvt--ltd "
+  - text: "Oretes Consulting Pvt Ltd is located in Bhubaneswar,India.Folllow us at google maps https://g.page/ocpl--ltd "
 
 
   utter_contact:
-  - text: "For contact details, follow us at http://oretes.com/contact-us/"
+  - text: "For contact details, follow us at http://ocpl.com/contact-us/"
   utter_about_services:
-  - text: "We offer all type of services.For more details about services please visit our website:http://oretes.com/services"
+  - text: "We offer all type of services.For more details about services please visit our website:http://ocpl.com/services"
 
 actions:
 - utter_greet
